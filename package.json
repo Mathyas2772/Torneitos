@@ -1,0 +1,16 @@
+{
+  "name": "torneitos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server --prefix backend\" \"npm run dev --prefix frontend\"",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Sistema de Gestión de Torneos con personajes de anime, películas, cómics, videojuegos y originales",
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
