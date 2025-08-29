@@ -1,7 +1,7 @@
 # Torneitos
 
 ## Descripción
-Este proyecto es una aplicación full-stack para crear y simular torneos de eliminación simple con personajes personalizados. Inspirado en series como Rurouni Kenshin, permite a usuarios registrarse, crear personajes (con nombre, imagen y fuerza), formar torneos de 4, 8 o 16 participantes, simular combates paso a paso (con lógica de fuerza + aleatoriedad), y ver resultados en tiempo real. Construido con el stack MERN (MongoDB, Express, React, Node.js).
+Este proyecto es una aplicación full-stack para crear y simular torneos de eliminación simple con personajes personalizados. Inspirado en series, películas y video juegos, permite a usuarios registrarse, crear personajes (con nombre, origen, imagen opcional y fuerza), formar torneos de 4, 8 o 16 participantes, simular combates paso a paso (con lógica de fuerza + aleatoriedad), y ver resultados en tiempo real. Construido con el stack MERN (MongoDB, Express, React, Node.js).
 
 Mi idea con este proyecto es demostrar mis habilidades en desarrollo web, APIs REST, autenticación JWT, y lógica de algoritmos (barajado, simulación).
 
