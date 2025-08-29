@@ -25,10 +25,10 @@ Mi idea con este proyecto es demostrar mis habilidades en desarrollo web, APIs R
 
 ## Uso
 - Registrate/logueá.
-- Crea personajes en `personajes/`.
-- Crea torneos en `torneo/` (elegí tamaño y participantes).
-- Simula combates en `torneos/:id` y progresar en el torneo.
-- Ve listas en `lista-torneos/` y `lista/`.
+- Crear personajes en `personajes/`.
+- Crear torneos en `torneo/` (elegí tamaño y participantes).
+- Simular combates en `torneos/:id` y progresar en el torneo.
+- Ver listas en `lista-torneos/` y `lista/`.
 - Simular combates individuales fuera de torneos en `combate/`.
 
 ## Funcionalidades Principales
